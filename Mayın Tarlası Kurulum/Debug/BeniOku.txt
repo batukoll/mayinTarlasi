@@ -1,0 +1,5 @@
+Mayın Tarlası Kurulumuna Hoş Geldiniz.
+
+Mayın Tarlasını kurmak için Mayın Tarlası Kurulum.msi dosyasına çift tıklayarak kurabilirsiniz.
+
+İyi Eğlenceler...

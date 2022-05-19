@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mayinTarlasi", "mayinTarlasi\mayinTarlasi.csproj", "{D2CF99D4-53EF-4DB7-966B-1AA6D9CA2483}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Mayın Tarlası Kurulum", "Mayın Tarlası Kurulum\Mayın Tarlası Kurulum.vdproj", "{8BC2AF36-DB81-488F-838A-E3B09C71AF47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2CF99D4-53EF-4DB7-966B-1AA6D9CA2483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CF99D4-53EF-4DB7-966B-1AA6D9CA2483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CF99D4-53EF-4DB7-966B-1AA6D9CA2483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CF99D4-53EF-4DB7-966B-1AA6D9CA2483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC2AF36-DB81-488F-838A-E3B09C71AF47}.Debug|Any CPU.ActiveCfg = Debug
+		{8BC2AF36-DB81-488F-838A-E3B09C71AF47}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8D8B9B6-E7F8-4CB8-B9C5-7DA72C4B4500}
+	EndGlobalSection
+EndGlobal
